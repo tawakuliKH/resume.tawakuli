@@ -27,6 +27,12 @@ const Skills = () => {
               <div className="skill-tag"><i className="fas fa-paint-brush"></i>Photoshop</div>
               <div className="skill-tag"><i className="fas fa-mobile-alt"></i>Android (Basic)</div>
               <div className="skill-tag"><i className="fas fa-code-branch"></i>Agile / Git</div>
+              <div className="skill-tag"><i className="fab fa-docker"></i>Docker</div>
+              <div className="skill-tag"><i className="fas fa-database"></i>PostgreSQL</div>
+              <div className="skill-tag"><i className="fas fa-layer-group"></i>Prisma</div>
+              <div className="skill-tag"><i className="fas fa-wind"></i>Tailwind CSS</div>
+              <div className="skill-tag"><i className="fas fa-bolt"></i>Vite</div>
+              <div className="skill-tag"><i className="fab fa-chrome"></i>Chrome Ext.</div>
             </div>
           </div>
           <div>
@@ -46,6 +52,12 @@ const Skills = () => {
               <div className="skill-tag"><i className="fas fa-cogs"></i>Problem Solving</div>
               <div className="skill-tag"><i className="fas fa-users"></i>Pair Programming</div>
               <div className="skill-tag"><i className="fas fa-clock"></i>Time Management</div>
+              <div className="skill-tag"><i className="fas fa-brain"></i>TensorFlow</div>
+              <div className="skill-tag"><i className="fas fa-fire"></i>PyTorch</div>
+              <div className="skill-tag"><i className="fas fa-eye"></i>OpenCV</div>
+              <div className="skill-tag"><i className="fas fa-hand-paper"></i>MediaPipe</div>
+              <div className="skill-tag"><i className="fas fa-bolt"></i>Gemini API</div>
+              <div className="skill-tag"><i className="fas fa-microphone"></i>Whisper / Groq</div>
             </div>
           </div>
         </div>

@@ -27,7 +27,7 @@ const Hero = () => {
                 <p>Years Experience</p>
               </div>
               <div className="stat">
-                <h3>12+</h3>
+                <h3>17+</h3>
                 <p>Projects</p>
               </div>
               <div className="stat">
@@ -38,7 +38,6 @@ const Hero = () => {
           </div>
           <div className="hero-visual">
             <div className="avatar-frame">
-              {/* ✅ REPLACE with your own photo */}
               <img
                 src="/my-photo.jpg"
                 alt="Khadim Tawakuli"

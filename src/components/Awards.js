@@ -10,7 +10,17 @@ const Awards = () => {
           <p className="section-sub">Moments of achievement and impact.</p>
         </div>
         <div className="awards-grid">
+          {/* NEW: CASDHO Certificate */}
           <div className="award-card reveal reveal-delay-1">
+            <div className="award-icon"><i className="fas fa-certificate"></i></div>
+            <div className="award-content">
+              <h4>Certificate of Appreciation — AI Trainer</h4>
+              <div className="org">CASDHO · Aug 2026</div>
+              <div className="desc">Recognized for outstanding service as Trainer for "Key AI Skills – Boosting Productivity in Small Business," delivering high-quality learning experiences and equipping Afghan youth with practical AI skills.</div>
+            </div>
+          </div>
+
+          <div className="award-card reveal reveal-delay-2">
             <div className="award-icon"><i className="fas fa-trophy"></i></div>
             <div className="award-content">
               <h4>ICPC Programming Contest — 1st Place</h4>
@@ -18,7 +28,7 @@ const Awards = () => {
               <div className="desc">Led my team to first place in the national round of the prestigious International Collegiate Programming Contest.</div>
             </div>
           </div>
-          <div className="award-card reveal reveal-delay-2">
+          <div className="award-card reveal reveal-delay-3">
             <div className="award-icon"><i className="fas fa-microphone"></i></div>
             <div className="award-content">
               <h4>Google Cloud Training Award</h4>
@@ -26,7 +36,7 @@ const Awards = () => {
               <div className="desc">Awarded a Google Nest Mini for outstanding performance in Google Cloud training held at Kabul University.</div>
             </div>
           </div>
-          <div className="award-card reveal reveal-delay-3">
+          <div className="award-card reveal reveal-delay-4">
             <div className="award-icon"><i className="fas fa-users"></i></div>
             <div className="award-content">
               <h4>iClub Event Coordinator</h4>
@@ -34,7 +44,7 @@ const Awards = () => {
               <div className="desc">Served as Kabul University Coordinator for iClub, an event introducing new technologies to CS students.</div>
             </div>
           </div>
-          <div className="award-card reveal reveal-delay-4">
+          <div className="award-card reveal reveal-delay-1">
             <div className="award-icon"><i className="fas fa-user-graduate"></i></div>
             <div className="award-content">
               <h4>Student's Union — Information Manager</h4>
